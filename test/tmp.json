@@ -1,0 +1,20 @@
+{
+    "apiVersion": "v1",
+    "kind": "Namespace",
+    "metadata": {
+        "creationTimestamp": "2025-02-24T20:52:23Z",
+        "deletionTimestamp": "2025-02-24T21:06:33Z",
+        "labels": {
+            "kubernetes.io/metadata.name": "staging"
+        },
+        "name": "staging",
+        "resourceVersion": "2663618",
+        "uid": "e9f08f82-d9e8-40e5-82a3-ed5e9e46cd4c"
+    },
+    "spec": {
+        "finalizers": []
+    },
+    "status": {
+        "phase": "Terminating"
+    }
+}
